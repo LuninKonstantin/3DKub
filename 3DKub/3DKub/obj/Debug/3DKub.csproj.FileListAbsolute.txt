@@ -1,0 +1,15 @@
+D:\Projects\c scharp\3DKub\3DKub\bin\Debug\3DKub.exe.config
+D:\Projects\c scharp\3DKub\3DKub\bin\Debug\3DKub.exe
+D:\Projects\c scharp\3DKub\3DKub\bin\Debug\3DKub.pdb
+D:\Projects\c scharp\3DKub\3DKub\obj\Debug\3DKub.csproj.AssemblyReference.cache
+D:\Projects\c scharp\3DKub\3DKub\obj\Debug\MainWindow.g.cs
+D:\Projects\c scharp\3DKub\3DKub\obj\Debug\App.g.cs
+D:\Projects\c scharp\3DKub\3DKub\obj\Debug\3DKub_MarkupCompile.cache
+D:\Projects\c scharp\3DKub\3DKub\obj\Debug\3DKub_MarkupCompile.lref
+D:\Projects\c scharp\3DKub\3DKub\obj\Debug\MainWindow.baml
+D:\Projects\c scharp\3DKub\3DKub\obj\Debug\3DKub.g.resources
+D:\Projects\c scharp\3DKub\3DKub\obj\Debug\_3DKub.Properties.Resources.resources
+D:\Projects\c scharp\3DKub\3DKub\obj\Debug\3DKub.csproj.GenerateResource.cache
+D:\Projects\c scharp\3DKub\3DKub\obj\Debug\3DKub.csproj.CoreCompileInputs.cache
+D:\Projects\c scharp\3DKub\3DKub\obj\Debug\3DKub.exe
+D:\Projects\c scharp\3DKub\3DKub\obj\Debug\3DKub.pdb
